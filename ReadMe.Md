@@ -30,6 +30,7 @@
 - Use % for similarity.
 
 ### Sample Output
+```
 > sample-23 seq appeared 740 times
 aaccgg
 > sample-25 seq appeared 30 times
